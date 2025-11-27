@@ -1,10 +1,13 @@
-## hi my name is benny
-# i want
-- to learn x86 assembly
-- to learn low level programming in general
-- **a job**
-# i like
-- vigeo games
-- hacking vigeo games
-- game development
-- ????????
+# To do
+- revise script
+- reinforce repo for website
+- fix joenation animation system
+- ???
+# FAQ
+- Q: When god asked you between choosing to be a complete fucking dingus or have great memory, what did you choose?
+- A: I forgot.
+- Q: Why does none of your code work on my machine?
+- A: Dont ask
+
+
+![peekaboo](https://c.tenor.com/vkNXGVfZ1SoAAAAd/tenor.gif)
