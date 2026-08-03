@@ -1,9 +1,9 @@
 # To do
 - revise script
 - add php backend to weednation(no repo as of yet)
-- godot
-- take a gander at maplestation PR(procastinating)
-- ???
+- physics engine
+- write drivers
+- move server to home server
 # FAQ
 - Q: Why is there smoke coming out of your oven seymour?
 - A: That isn't smoke, its steam. Steam from the steamed clams we're having! Mmmmmm! Steamed clams!
